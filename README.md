@@ -3,6 +3,7 @@
 
 | Year-Id | Title                                                                                                                                                                     | Venue Name |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| 2023-2  | [Data Quality Matters: A Case Study of Obsolete Comment Detection](https://doi.org/10.1109/ICSE48619.2023.00074)                                                 | ICSE           |
 | 2023-1  | [Data Quality for Software Vulnerability Datasets](https://ieeexplore.ieee.org/abstract/document/10172650?casa_token=GJbk2I98t_gAAAAA:OafSQBxIYw-2KMZ7J9Qt0HR8e7ECnVVbwQFjSWYJnQ8Elp3AU7xiokiBQBHuBE1Uehu1TVRu#:~:text=10.1109/ICSE48619.2023.00022)                                                 | ICSE           |
 | 2022-2  | [Data smells in public datasets](https://dl.acm.org/doi/abs/10.1145/3522664.3528621)                                                 | CAIN           |
 | 2022-1  | [Data smells: categories, causes and consequences, and detection of suspicious data in AI-based systems](https://dl.acm.org/doi/abs/10.1145/3522664.3528590)                                                 | CAIN           |
