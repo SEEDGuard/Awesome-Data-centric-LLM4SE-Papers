@@ -109,7 +109,7 @@
 |2020-1 |[Cross-Dataset Design Discussion Mining.](https://doi.org/10.1109/SANER48275.2020.9054792)     |SANER  |
 </details>
 
-## SEEDProtector - Data Security
+## SEEDProtector
 
 
 
